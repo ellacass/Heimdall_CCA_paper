@@ -8,3 +8,6 @@ input fasta file can contain all CCA sequences (ie a concatenated file for all),
 - Missing Motifs: lists all/any missing motifs 
 - Insufficient Upstream Space: defines if there was insufficient upstream space to identify the characteristic PAP upstream motif
 - Final Classification: Given a set of conditions, was it possible to confidently assign the proteins/enzyme to a specific type
+
+# site_analysis.py
+outputs the csv files pertaining to the strong synapomorphies
